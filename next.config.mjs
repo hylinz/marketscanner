@@ -14,4 +14,3 @@ const nextConfig = {
 };
 
 export default nextConfig;
-// https://cdn.shopify.com/s/files/1/0605/0555/5177/files/MondayMorning_1_1445x_1.png?v=1709661900

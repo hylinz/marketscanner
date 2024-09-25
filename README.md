@@ -1,5 +1,6 @@
 # Market Scanner
 
+Web app for scanning retail market trends.
 
 ## Project Setup To-Do
 
@@ -52,3 +53,16 @@
 - [ ] Integration with shopify?
 
 - [ ] Public APIs 
+
+# Requirements
+
+- Node 20+
+- NextJS 14.4 +
+- TBD
+
+# Packages
+
+- ShadCN
+- DaisyUI
+- ReactIcons
+- TBD
